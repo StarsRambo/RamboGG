@@ -1,7 +1,7 @@
 {
   "name" : " whatsapp-bot " ,
   "description" : " membuat bot whatsapp dengan nodejs " ,
-  "repositori" : " https://github.com/zeeoneofc/Alphabot " ,
+  "repositori" : " https://github.com/StarsRambo/RamboGG " ,
   "logo" : " https://c.top4top.io/p_2069qnvob1.jpg " ,
   "kata kunci" : [ " nodejs " , " bot " , " bot whatsapp " , " otomatisasi whatsapp " ]
   "buildpack" : [{
