@@ -1,5 +1,5 @@
 ## 'Deploy'
 
-[![Deploy](https://github.com/StarsRambo/RamboGG)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarsRambo/RamboGG)
 # RamboGG
 Hai
